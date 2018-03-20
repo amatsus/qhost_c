@@ -5,3 +5,11 @@
 ```
 qhost -c [host_list]
 ```
+
+### example
+
+All execution hosts
+
+```
+qhost -c `qconf -sql`
+```

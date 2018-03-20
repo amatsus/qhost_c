@@ -1,4 +1,4 @@
-# qhost wrapper to create the list of running containers
+# qhost wrapper to show the list of running containers
 
 ## Usage
 
